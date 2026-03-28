@@ -176,7 +176,7 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _SnowAO: 0
     - _SnowBlendDistance: 0.1
-    - _SnowMetallic: 0
+    - _SnowMetallic: 0.36
     - _SnowNoiseStrength: 0.15
     - _SnowNormalStrength: 1
     - _SnowSmoothness: 0.02
