@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-3464049499565643455
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 10
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Barrier
+  m_Shader: {fileID: -6465566751694194690, guid: 854c886e642a4504cb9bebf4e30043b4, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _EmissionTex:
+        m_Texture: {fileID: 2800000, guid: d14739e6e6d57ad4aa4d14325467b775, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTexture:
+        m_Texture: {fileID: 2800000, guid: 9f511113cbed15044a912bf6a97d5cc9, type: 3}
+        m_Scale: {x: 4.57, y: 3.14}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_5b7c065397e84ea5bf7c777c11226063_Texture_1_Texture2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _CutMax: 0.1
+    - _CutMin: 0.05
+    - _EdgeContrast: 3.65
+    - _EdgeEnd: 0.05
+    - _EdgeIntensity: 48.42
+    - _EdgeScale: 9.59
+    - _EdgeSharp: 10.46
+    - _EdgeSize: 26.12
+    - _EdgeStart: 0.28
+    - _EdgeWidth: 2.7
+    - _HexBlurAmount: 0.1
+    - _InnerBandEnd: 2.21
+    - _InnerBandStart: 5.83
+    - _IntensityEmiss: 60.94
+    - _IntensityEmissive: 500
+    - _OffsetEdge: 40.4
+    - _PowerFresnel: 2.96
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _Speed: 1.29
+    - _Umbral_Intersection: 37.7
+    m_Colors:
+    - _ColorEdge: {r: 0, g: 384.57654, b: 388.02353, a: 1}
+    - _ColorForEmission: {r: 0, g: 1, b: 1, a: 1}
+    - _ColorHex: {r: 0, g: 1, b: 1, a: 1}
+    - _MainTexTiling: {r: 30, g: 30, b: 0, a: 0}
+    - _MovementTiling: {r: 30, g: 20, b: 0, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
