@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Barrier
+  m_Name: M_Barrier
   m_Shader: {fileID: -6465566751694194690, guid: 854c886e642a4504cb9bebf4e30043b4, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -73,7 +73,7 @@ Material:
     - _EdgeSize: 26.12
     - _EdgeStart: 0.28
     - _EdgeWidth: 2.7
-    - _HexBlurAmount: 0.09
+    - _HexBlurAmount: 0.1
     - _InnerBandEnd: 2.21
     - _InnerBandStart: 5.83
     - _IntensityEmiss: 60.94
@@ -82,7 +82,7 @@ Material:
     - _PowerFresnel: 2.96
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Speed: 0.5
+    - _Speed: 1.29
     - _Umbral_Intersection: 37.7
     m_Colors:
     - _ColorEdge: {r: 0, g: 384.57654, b: 388.02353, a: 1}
